@@ -5,7 +5,7 @@ Mainly made for discord video's but can be used on any program or website that r
 
 GUI:
 
-![Optional Text](../master/readmeimages/GUI.PNG)
+![Optional Text](../master/readmeimages/GUI.png)
 ## Download
 - **[Latest release](https://github.com/wrefgtzweve/CursedVideoMaker/releases/latest)**
 ## Example
