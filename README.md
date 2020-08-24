@@ -8,13 +8,32 @@ GUI:
 ![Optional Text](../master/readmeimages/GUI.png)
 ## Download
 - **[Latest release](https://github.com/wrefgtzweve/CursedVideoMaker/releases/latest)**
-## Example
+## Examples
+Discord examples:
 
-Input video:
+Original:
+
+![Optional Text](../master/readmeimages/original.png)
+
+Custom duration set to 20 seconds:
+
+![Optional Text](../master/readmeimages/customduration.png)
+
+Longest duration:
+
+![Optional Text](../master/readmeimages/longestduration.png)
+
+Negative duration:
+
+![Optional Text](../master/readmeimages/negativeduration.png)
+
+
+
+Input video windows properties:
 
 ![Optional Text](../master/readmeimages/inputexample.PNG)
 
-Output video:
+Output video windows properties:
 
 ![Optional Text](../master/readmeimages/outputexample.PNG)
 ###### Note: The video lenght stays the same and the file size doesn't change.
