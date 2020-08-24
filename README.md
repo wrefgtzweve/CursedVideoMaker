@@ -27,13 +27,13 @@ Negative duration:
 
 ![Optional Text](../master/readmeimages/negativeduration.png)
 
+#### Windows file properties:
 
-
-Input video windows properties:
+Input video:
 
 ![Optional Text](../master/readmeimages/inputexample.PNG)
 
-Output video windows properties:
+Output video (longest duration):
 
 ![Optional Text](../master/readmeimages/outputexample.PNG)
 ###### Note: The video lenght stays the same and the file size doesn't change.
