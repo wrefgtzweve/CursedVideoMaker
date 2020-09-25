@@ -8,6 +8,7 @@ GUI:
 ![Optional Text](https://raw.githubusercontent.com/wrefgtzweve/CursedVideoMaker/master/readmeimages/GUI.png)
 ## Download
 - **[Latest release](https://github.com/wrefgtzweve/CursedVideoMaker/releases/latest)**
+
 ## Examples
 Discord examples:
 
