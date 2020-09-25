@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# CursedVideoMaker
+CVM Can be used to create "cursed" video's which are hex edited MP4's.
 
-You can use the [editor on GitHub](https://github.com/wrefgtzweve/CursedVideoMaker/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Mainly made for discord video's but can be used on any program or website that reads the video header.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GUI:
 
-### Markdown
+![Optional Text](../master/readmeimages/GUI.png)
+## Download
+- **[Latest release](https://github.com/wrefgtzweve/CursedVideoMaker/releases/latest)**
+## Examples
+Discord examples:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Original:
 
-```markdown
-Syntax highlighted code block
+![Optional Text](../master/readmeimages/original.png)
 
-# Header 1
-## Header 2
-### Header 3
+Custom duration set to 20 seconds:
 
-- Bulleted
-- List
+![Optional Text](../master/readmeimages/customduration.png)
 
-1. Numbered
-2. List
+Longest duration:
 
-**Bold** and _Italic_ and `Code` text
+![Optional Text](../master/readmeimages/longestduration.png)
 
-[Link](url) and ![Image](src)
-```
+Negative duration:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Optional Text](../master/readmeimages/negativeduration.png)
 
-### Jekyll Themes
+#### Windows file properties:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wrefgtzweve/CursedVideoMaker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Input video:
 
-### Support or Contact
+![Optional Text](../master/readmeimages/inputexample.PNG)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Output video (longest duration):
+
+![Optional Text](../master/readmeimages/outputexample.PNG)
+###### Note: The video lenght stays the same and the file size doesn't change.
