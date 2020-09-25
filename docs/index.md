@@ -5,7 +5,7 @@ Mainly made for discord video's but can be used on any program or website that r
 
 GUI:
 
-![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/master/readmeimages/GUI.png)
+![Optional Text](https://raw.githubusercontent.com/wrefgtzweve/CursedVideoMaker/master/readmeimages/GUI.png)
 ## Download
 - **[Latest release](https://github.com/wrefgtzweve/CursedVideoMaker/releases/latest)**
 ## Examples
@@ -13,27 +13,27 @@ Discord examples:
 
 Original:
 
-![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/master/readmeimages/original.png)
+![Optional Text](https://raw.githubusercontent.com/wrefgtzweve/CursedVideoMaker/master/readmeimages/original.png)
 
 Custom duration set to 20 seconds:
 
-![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/master/readmeimages/customduration.png)
+![Optional Text](https://raw.githubusercontent.com/wrefgtzweve/CursedVideoMaker/master/readmeimages/customduration.png)
 
 Longest duration:
 
-![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/master/readmeimages/longestduration.png)
+![Optional Text](https://raw.githubusercontent.com/wrefgtzweve/CursedVideoMaker/master/readmeimages/longestduration.png)
 
 Negative duration:
 
-![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/master/readmeimages/negativeduration.png)
+![Optional Text](https://raw.githubusercontent.com/wrefgtzweve/CursedVideoMaker/master/readmeimages/negativeduration.png)
 
 #### Windows file properties:
 
 Input video:
 
-![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/master/readmeimages/inputexample.PNG)
+![Optional Text](https://raw.githubusercontent.com/wrefgtzweve/CursedVideoMaker/master/readmeimages/inputexample.PNG)
 
 Output video (longest duration):
 
-![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/master/readmeimages/outputexample.PNG)
+![Optional Text](https://raw.githubusercontent.com/wrefgtzweve/CursedVideoMaker/master/readmeimages/outputexample.PNG)
 ###### Note: The video lenght stays the same and the file size doesn't change.
