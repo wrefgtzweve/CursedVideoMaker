@@ -5,7 +5,7 @@ Mainly made for discord video's but can be used on any program or website that r
 
 GUI:
 
-![Optional Text](../readmeimages/GUI.png)
+![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/readmeimages/GUI.png)
 ## Download
 - **[Latest release](https://github.com/wrefgtzweve/CursedVideoMaker/releases/latest)**
 ## Examples
@@ -13,27 +13,27 @@ Discord examples:
 
 Original:
 
-![Optional Text](../readmeimages/original.png)
+![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/readmeimages/original.png)
 
 Custom duration set to 20 seconds:
 
-![Optional Text](../readmeimages/customduration.png)
+![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/readmeimages/customduration.png)
 
 Longest duration:
 
-![Optional Text](../readmeimages/longestduration.png)
+![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/readmeimages/longestduration.png)
 
 Negative duration:
 
-![Optional Text](../readmeimages/negativeduration.png)
+![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/readmeimages/negativeduration.png)
 
 #### Windows file properties:
 
 Input video:
 
-![Optional Text](../readmeimages/inputexample.PNG)
+![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/readmeimages/inputexample.PNG)
 
 Output video (longest duration):
 
-![Optional Text](../readmeimages/outputexample.PNG)
+![Optional Text](https://github.com/wrefgtzweve/CursedVideoMaker/blob/readmeimages/outputexample.PNG)
 ###### Note: The video lenght stays the same and the file size doesn't change.
