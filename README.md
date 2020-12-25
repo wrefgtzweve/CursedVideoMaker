@@ -3,6 +3,8 @@ CVM Can be used to create "cursed" video's which are hex edited MP4's.
 
 Mainly made for discord video's but can be used on any program or website that reads the video header.
 
+Inspired by https://www.youtube.com/watch?v=UxHQ7dW6M2s
+
 GUI:
 
 ![Optional Text](../master/readmeimages/GUI.png)
